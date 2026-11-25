@@ -1,6 +1,6 @@
 # Wordle CLI
 
-A terminal-based recreation of Wordle&reg written in C++, playable in both English and Italian.
+A terminal-based recreation of Wordle<sup>®</sup> written in C++, playable in both English and Italian.
 
 Unlike the original game, this version uses different types of brackets instead of colors to indicate the accuracy of each guess.
 
@@ -92,4 +92,4 @@ The project makes use of:
 
 ## Disclaimer
 
-This is an unofficial recreation of Wordle&reg made as a personal programming project. It is not affiliated with the original game or The New York Times.
+This is an unofficial recreation of Wordle<sup>®</sup> made as a personal programming project. It is not affiliated with the original game or The New York Times.
